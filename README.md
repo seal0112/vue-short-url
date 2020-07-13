@@ -1,9 +1,25 @@
 # vue-short-url
 
-> A Vue.js project
+一個用Vue.js製作short-url的前端web服務
+後端服務可以和[flask-short-url](https://github.com/seal0112/flask-short-url)整合
+
+## Installation
+```shell
+$ git https://github.com/seal0112/vue-short-url
+$ cd vue-short-url/
+```
+
+#### 安裝需要的module
+```shell
+$ npm install
+```
+
+#### 啟動
+```shell
+$ npm run dev
+```
 
 ## Build Setup
-
 ``` bash
 # install dependencies
 npm install
